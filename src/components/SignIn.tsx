@@ -21,9 +21,6 @@ export function SignIn() {
       >
         Sign in with Google
       </button>
-      <p className="mt-4 text-white text-center">
-        Do not violate the community guidelines or you will be banned for life!
-      </p>
     </div>
   );
 }
